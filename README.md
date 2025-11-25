@@ -31,11 +31,11 @@ Me encanta crear APIs robustas, trabajar con bases de datos y aprender tecnolog�
 
 ---
 
-## 📈 GitHub Stats  
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=estebanpd22&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estebanpd22&layout=compact&theme=tokyonight" />
+## 📈 GitHub Stats
+<div align="center"> 
+  
+<img height="170" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=estebanpd22&show_icons=true&theme=tokyonight&count_private=true" />
+<img height="170" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=estebanpd22&layout=compact&theme=tokyonight" />
 
 </div>
 
